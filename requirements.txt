@@ -1,0 +1,15 @@
+name: DeepLearning
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - pytorch
+  - torchvision
+  - cpuonly
+  - torchaudio
+  - matplotlib
+  - tqdm
+  - scipy
+  - scikit-image
+  - opencv
+prefix: /home/silverwolf/anaconda3/envs/DeepLearning
